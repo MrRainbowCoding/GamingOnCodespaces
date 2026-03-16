@@ -1,4 +1,9 @@
-# GamingOnCodespaces (Beta)
+# GamingOnCodespaces (ARCHIVED)
+
+⚠️As a part of my new repo cleanout, i'm archiving this repo. Meaning this repo will **NEVER** be updated again. ⚠️
+
+I suggest you find another repo. Lots of forks have been made. Please stop forking this.
+
 
 <img src="https://i.imgur.com/bPFofl2.png" style="width:300px;"/><img src="https://i.imgur.com/kxqd2VT.png" style="width:300px;"/>
 
